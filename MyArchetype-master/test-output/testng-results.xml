@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-25T20:06:29 IST" name="Default suite" finished-at="2019-11-25T20:06:31 IST" duration-ms="1681">
+    <groups>
+    </groups>
+    <test started-at="2019-11-25T20:06:29 IST" name="Default test" finished-at="2019-11-25T20:06:31 IST" duration-ms="1681">
+      <class name="date.DatePolicy">
+        <test-method signature="effectiveDatePolicy()[pri:0, instance:date.DatePolicy@14d3bc22]" started-at="2019-11-25T20:06:29 IST" name="effectiveDatePolicy" finished-at="2019-11-25T20:06:31 IST" duration-ms="1603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- effectiveDatePolicy -->
+      </class> <!-- date.DatePolicy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,4 @@
+2019-11-25 13:10:11,620  INFO [main] LogReports:24 - username is entered as user@phptravels.com
+2019-11-25 13:10:11,759  INFO [main] LogReports:24 - password is typed as demouser
+2019-11-25 13:10:11,896  INFO [main] LogReports:24 - Logged in
+2019-11-25 13:10:14,182  INFO [main] LogReports:24 - Verified the text Hi,Demo User 
